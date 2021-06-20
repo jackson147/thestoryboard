@@ -1,10 +1,10 @@
-# Syntax.
+# The Story Board.
 
-A tasty treats podcast for Web Developers.
-
-This is the site that runs [Syntax.fm](https://syntax.fm) — go there to listen to it!
+Podcasts for The Storyboard Community Cinema & Arts Hub
 
 This site is built on React and Next.js
+
+The source code is built from [Syntax](https://github.com/wesbos/Syntax)
 
 ## Requirements
 - Node 8.1.2 or higher
