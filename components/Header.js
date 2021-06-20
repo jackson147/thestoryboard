@@ -5,8 +5,8 @@ const Header = () => (
   <header className="header">
     <div className="header__left">
       <Link href="/">
-        <a aria-label="Syntax.FM">
-          <img className="header__logo" src="/static/story_400x400.jpg" alt="Syntax" />
+        <a aria-label="thestoryboard.FM">
+          <img className="header__logo" src="/static/story_400x400.jpg" alt="The Story Board" />
         </a>
       </Link>
     </div>

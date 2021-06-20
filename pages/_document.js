@@ -2,7 +2,7 @@ import Document, { Html, Head, Main, NextScript } from 'next/document';
 import { description } from '../package.json';
 import stylesheet from '../styles/style.styl';
 
-class SyntaxDocument extends Document {
+class StoryBoardDocument extends Document {
   render() {
     return (
       <Html lang="en">
@@ -14,11 +14,11 @@ class SyntaxDocument extends Document {
           <meta property="og:description" content={description} />
           <meta
             property="og:image"
-            content="https://syntax.fm/static/syntax-banner.png"
+            content="https://thestoryboard.fm/static/storyboard-banner.png"
           />
           <link
             rel="shortcut icon"
-            href="https://syntax.fm/static/favicon.png"
+            href="https://thestoryboard.fm/static/favicon.png"
           />
           <style
             // eslint-disable-next-line react/no-danger
@@ -34,4 +34,4 @@ class SyntaxDocument extends Document {
   }
 }
 
-export default SyntaxDocument;
+export default StoryBoardDocument;
