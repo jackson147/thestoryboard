@@ -7,4 +7,4 @@ url: https://minio.newlinkedlist.com/cd-adventure/01.mp3
 
 ## Show Notes
 
-CD Adventure into
+CD Adventure intro test
